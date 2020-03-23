@@ -1,0 +1,69 @@
+PROTOCOL 01 - Gift:
+a) No Politics.
+b) No Profit based Sponsors/Validators/Companies.
+c) Consumers can be everyone (Businesses or Consumers).
+d) Sponsors are companies or personalities,  which decide to contribute to buckets.
+e) Buckets are local pools of money that can grow and spill to adjacent buckets.
+f) Buckets are "assigned" per user physical location (detected and confirmed).
+g) Main Consumer Bucket will be the "not filled" closest to them, per ascending order of required money.
+h) Main Sponsor Bucket will be the "emptiest" local Bucket @Country level.
+
+PROTOCOL 02 - Buckets:
+a) Buckets are pools of money to aid Small Open door Businesses (PROTOCOL ...).
+b) When a Bucket is full, it spills to the one adjacent (ordered by needs).
+c) Buckets are adjoined from smaller to largest (street *to define size*, neighborhood, town, municipality/county, Region/State, Country, Continent.
+e) Buckets are filled and emptied according to needs per time unit (week/month/quarter).
+f) Buckets are accrued by the Tax Offices and two other non-profitable institutions of each area (see 02.c).
+g) The Bucket Overall value is donated equally according to Priority Protocol (04).
+
+Protocol 03 - Businesses
+a) Businesses, are defined as anyone who in the scope of individual, then family, then organization are in dire need of money to keep their business open or to pay themselves and/or their employees.
+b) Businesses need ot be validated by the Tax Identification number.
+c) Businesses are ordered per category (vital activities connected to health, food, shelter, etc, then essential such as pet food, restaurants, taxis, etc, and finally non-essential, such as hairdressers, nail salons, painters, etc...)
+d) Businesses can still receive gifts from consumers, on the minimum period available.
+e) Businesses value demand should be proritized on health>food>housing for them, then their employees' health>food>housing - see Priority Protocol (05).
+f) Businesses can (and should) when possible, still attempt to run their business by providing services/goods to be order for later supply (vouchers/discounts/programs, etc...) - see Promises Protocol (04). 
+
+Protocol 04 - Promises
+a) Promises are Goods or Services that Consumers/Sponsors will pay for in-app directly, for a later delivery, when the pandemic is over and provided the Business capacity isn't full.
+b) Consumers will acquire the goods/services for later date pending Business Capacity.
+c) Sponsors will pay for those goods/services but only for direct or inderect donation (avoiding "slavery" practices).
+d) Businesses can link their offers (Promises) given specific format, advertised by Consumer location.  
+
+Protocol 05 - Priority
+a) Priorities can be set on a local basis, i.e. which Businesses exist at each level (02.c)
+b) A Priority Matrix will be negotiated given the category of the Business and number or dependent people.
+c) General Priority should go to People's Health>Food>Housing>Work for them and their direct families.
+d) Priority Levels are ordered by Vital, Essential, Non-Essential and Luxury
+
+Protocol 06 - Sponsors
+a) Sponsors are Individuals or Institutions that will want to cooperate with Virtuosa, either on People, Tools or Resources.
+b) Sponsors are not eligible for direct/indirect payments via App.
+c) Sponsors need to agree with the terms of Sponsoring under Agreements (see 12)
+
+Protocol 07 - Laws
+a) The App needs to comply with local legislation for each Country or Pact, for which volunteers will need to draft and approve the App rules and confirm it's processes.
+b) The App needs to define a risk map to whew and how the risk of non-compliance with the laws can be breach and provide mitigation/elimination strategies.
+c) Whenever possible, the App needs to be managed with a Compliance and Assurance strategy to avoid/mitigate any legal actions against the App.
+
+Protocol 08 - Languages
+a) The application UI needs to be implemented in all languages of all countries where the app is approved and validated.
+b) Language is chosen per user device, default is English.
+c) Documentation, tutorials, FAQs, agreements and any other materials will be available in the following order: EN>ES>FR>PT.
+d) Translations need to be validated by Teams/Validators.
+
+Protocol 09 - Tools
+a) Tools used for workflow will be defined by Core Team and considered as the "official" tools for decision, development and use.
+b) Tools should be procured as free for use by teams, or "special" circumstancial licensing can be provided by Sponsors.
+c) Different tools may be required for different teams/workflow.
+
+Protocol 10 - Technologies
+a) Technologies to use should be open source or offered by Sponsors under special licensing.
+b) Technologies should provide long-term support for the App, not less than 5 years. 
+
+Protocol 11 - Ledgers
+a) Ledgers should be kept using e.g. blockchain to be verifiable and integral. 
+Protocol 12 - Agreements
+Protocol 13 - Teams
+Protocol 14 - Improvements
+Protocol 15 - Releases
