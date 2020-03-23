@@ -45,12 +45,15 @@ Protocol 07 - Laws
 a) The App needs to comply with local legislation for each Country or Pact, for which volunteers will need to draft and approve the App rules and confirm it's processes.
 b) The App needs to define a risk map to whew and how the risk of non-compliance with the laws can be breach and provide mitigation/elimination strategies.
 c) Whenever possible, the App needs to be managed with a Compliance and Assurance strategy to avoid/mitigate any legal actions against the App.
+d) The App must comply with GDPR (for EU) and all other Data Protection Regulations accross the world.
+e) Where DP laws and Regulations are not available, the stronger one should be applicable.
 
 Protocol 08 - Languages
 a) The application UI needs to be implemented in all languages of all countries where the app is approved and validated.
 b) Language is chosen per user device, default is English.
-c) Documentation, tutorials, FAQs, agreements and any other materials will be available in the following order: EN>ES>FR>PT.
+c) Documentation, tutorials, FAQs, agreements and any other materials will be available in the following order: EN>ES>FR>PT>DE.
 d) Translations need to be validated by Teams/Validators.
+e) Language use should be innequivocal and clear enough for illeterate people to be able to understand the concept.
 
 Protocol 09 - Tools
 a) Tools used for workflow will be defined by Core Team and considered as the "official" tools for decision, development and use.
@@ -63,7 +66,27 @@ b) Technologies should provide long-term support for the App, not less than 5 ye
 
 Protocol 11 - Ledgers
 a) Ledgers should be kept using e.g. blockchain to be verifiable and integral. 
+b) Ledgers should be open and readable by anyone.
+c) Personal Ientifiers should not be available to public, other than the Validators.
+d) Ledgers must at all times protect Personal Data.
+
 Protocol 12 - Agreements
+a) Agreements should be negotiated, agreed, initiated and operated with Sponsors and Validators given the best practices frameworks available such as SOX, PRINCE, ITIL, etc.
+b) Agreements are public and translated to at least 5 languages (see 08.c).
+c) Agreements are approved only by Collegium Team (see 13.a)
+
 Protocol 13 - Teams
+a) Main Team Accountable for the App and Protocols is Collegium Team.
+b) Each Protocol should be governed by a Governance Team.
+c) Each Workflow Task is delivered by a Core Team.
+d) Each Core Team can have as many membrs as required, bu managed by a Task Owner.
+
 Protocol 14 - Improvements
+a) Improvements to Protocols and or App functionality are governed by Collegium and Governance Teams with approval of Validators/Consumers. 
+b) Improvements cannot at any time or for any reason transform the App away from Protocol 01 a, b.
+
 Protocol 15 - Releases
+a) First release to be chieved when all Protocols have initial version, and App is fully functional on Core Minimum.
+b) Releases should be silent for user and provide enough clarity to users.
+c) Distribution is Free and should be free always.
+d) future after Pandemic can be defined on a new Protocol - Future.
