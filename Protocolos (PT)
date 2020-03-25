@@ -1,92 +1,92 @@
-PROTOCOLO 01 - Presente:
-a) Sem política.
-b) Nenhum patrocinador / validador / empresa com base no lucro.
-c) Os consumidores podem ser todos (empresas ou consumidores).
-d) Patrocinadores são empresas ou personalidades que decidem contribuir com baldes.
-e) Caçambas são conjuntos de dinheiro locais que podem crescer e derramar em caçambas adjacentes.
-f) Os baldes são "atribuídos" por local físico do usuário (detectados e confirmados).
-g) O Balde do Consumidor Principal será o "não preenchido" mais próximo deles, por ordem crescente do dinheiro requerido.
-h) O principal balde do patrocinador será o nível mais vazio do país no país.
+PROTOCOLO 01 - Oferta:
+a) Sem conotação política.
+b) Nenhum Patrocinador/Validador/Empresa com intenção de lucro.
+c) Os Consumidores podem ser todos (Empresas ou Consumidores).
+d) Patrocinadores são empresas ou personalidades que decidem contribuir para Baldes.
+e) Baldes são bolsas de dinheiro locais que podem encher e derramar para Baldes adjacentes.
+f) Os baldes são "atribuídos" pelo local físico do usuário (detectados e confirmados).
+g) O Balde do Consumidor Principal será o "não cheio" mais próximo deles, por ordem crescente do dinheiro requerido.
+h) O principal Balde do Patrocinador será o de nível mais vazio no seu país.
 
-PROTOCOLO 02 - Caçambas:
-a) Baldes são conjuntos de dinheiro para ajudar pequenas empresas de porta aberta (PROTOCOLO ...).
-b) Quando um balde está cheio, ele é derramado no adjacente (ordenado por necessidades).
-c) Os baldes são unidos do menor para o maior (rua * para definir o tamanho *, bairro, cidade, município / município, região / estado, país, continente).
-e) As caçambas são preenchidas e esvaziadas de acordo com as necessidades por unidade de tempo (semana / mês / trimestre).
-f) Os baldes são acumulados pelos Escritórios Fiscais e duas outras instituições sem fins lucrativos de cada área (ver 02.c).
-g) O valor geral da caçamba é doado igualmente de acordo com o Priority Protocol (04).
+PROTOCOLO 02 - Baldes:
+a) Baldes são conjuntos de dinheiro para ajudar pequenas empresas de porta aberta (PROTOCOLO 03).
+b) Quando um Balde está cheio, o excedente é derramado no adjacente (ordenado por necessidades).
+c) Os Baldes são agregados do menor para o maior (rua *definir tamanho*, bairro, cidade, município, comuna / região / estado, país, continente).
+e) Os Baldes são preenchidos e esvaziados de acordo com as necessidades por unidade de tempo (semana / mês / trimestre).
+f) Os Baldes são verificados pelas Autoridades Fiscais e duas outras instituições sem fins lucrativos de cada área (ver 02.c).
+g) O valor geral da balde é doado igualmente de acordo com o Priority Protocol (04).
 
-Protocolo 03 - Empresas
-a) Negócios, são definidos como qualquer pessoa que, no escopo do indivíduo, da família e da organização, precise urgentemente de dinheiro para manter seus negócios abertos ou para pagar a si e / ou a seus funcionários.
-b) As empresas precisam ser validadas pelo número de identificação fiscal.
-c) As empresas são ordenadas por categoria (atividades vitais ligadas à saúde, alimentação, abrigo, etc.), essenciais como ração para animais de estimação, restaurantes, táxis etc. e, finalmente, não essenciais, como cabeleireiros, salões de unhas, pintores, etc. ..)
-d) As empresas ainda podem receber presentes dos consumidores, no período mínimo disponível.
-e) A demanda de valor das empresas deve ser priorizada em saúde> alimentação> moradia para eles e, em seguida, saúde dos empregados> alimentação> moradia - consulte Protocolo de Prioridade (05).
-f) As empresas podem (e devem), quando possível, ainda tentar administrar seus negócios, fornecendo serviços / mercadorias a serem encomendados para fornecimento posterior (vouchers / descontos / programas, etc ...) - consulte o Protocolo de Promessas (04).
+Protocolo 03 - Negócios
+a) Negócios, são definidos como qualquer pessoa que, no âmbito individual, familiar ou  organização, precise urgentemente de dinheiro para manter o seu negócio aberto ou para a sua família directa e/ou aos seus funcionários.
+b) os Negócios precisam ser validadas pelo número de identificação fiscal.
+c) As necessidades dos Negócios são ordenados por categoria (atividades vitais ligadas à saúde, alimentação, habitação, etc.), essenciais como ração para animais de estimação, restaurantes, táxis etc. e, finalmente, não essenciais, como cabeleireiros, salões de unhas, pintores, etc...).
+d) Os Negócios ainda podem receber Ofertas dos Consumidores, no período mínimo disponível.
+e) A procura de valor dos Negócios deve ser priorizada em saúde> alimentação> habitação para eles e, em seguida dos funcionários - saúde > alimentação> habitação - consulte Protocolo de Prioridade (05).
+f) As empresas podem (e devem), quando possível, ainda tentar administrar seus negócios, fornecendo serviços / mercadorias a serem encomendados para fornecimento posterior (vouchers / descontos / programas, etc ...) – ver Protocolo de Promessas (04).
 
 Protocolo 04 - Promessas
-a) Promessas são bens ou serviços que os consumidores / patrocinadores pagarão diretamente no aplicativo, para entrega posterior, quando a pandemia terminar e desde que a capacidade do negócio não esteja completa.
-b) Os consumidores adquirirão os bens / serviços para data posterior, dependendo da Capacidade do Negócio.
-c) Os patrocinadores pagarão por esses bens / serviços, mas apenas por doações diretas ou indiretas (evitando práticas de "escravidão").
-d) As empresas podem vincular suas ofertas (promessas) em um formato específico, anunciado pela localização do consumidor.
+a) Promessas são Bens ou Serviços que os Consumidores / Patrocinadores pagarão diretamente no aplicativo, para entrega posterior, quando a pandemia terminar e desde que a capacidade do Negócio não esteja completa.
+b) Os Consumidores adquirirão os Bens / Serviços para data posterior, dependendo da Capacidade do Negócio.
+c) Os Patrocinadores pagarão por esses Bens / Serviços, mas apenas por doações indirectas (evitando práticas de "escravidão").
+d) Os Negócios podem vincular suas Ofertas (Promessas) em um formato específico, anunciado pela localização do consumidor.
 
 Protocolo 05 - Prioridade
-a) As prioridades podem ser definidas localmente, ou seja, quais empresas existem em cada nível (02.c)
-b) Uma Matriz Prioritária será negociada, dada a categoria do Negócio e o número ou pessoas dependentes.
-c) Prioridade geral deve ir para Saúde das pessoas> Alimentação> Habitação> Trabalho para eles e suas famílias diretas.
-d) Os níveis de prioridade são ordenados por Vital, Essencial, Não Essencial e Luxo
+a) As Prioridades serão definidas localmente, ou seja, quais empresas existem em cada nível (02.c)
+b) Uma Matriz Prioritária será definida, dada a categoria do Negócio e o número ou pessoas dependentes.
+c) Prioridade geral deve ir para Saúde das pessoas> Alimentação> Habitação> Trabalho para eles e as suas famílias directas.
+d) Os níveis de Prioridade são ordenados por Vital, Essencial, Não Essencial e Luxo.
 
 Protocolo 06 - Patrocinadores
-a) Patrocinadores são indivíduos ou instituições que desejam cooperar com a Virtuosa, seja em pessoas, ferramentas ou recursos.
-b) Os patrocinadores não são elegíveis para pagamentos diretos / indiretos via aplicativo.
+a) Patrocinadores são indivíduos ou instituições que desejam cooperar com a Virtuosa, seja em Pessoas, Ferramentas ou Recursos.
+b) Os Patrocinadores não são elegíveis para retornos diretos/indiretos via aplicativo.
 c) Os patrocinadores precisam concordar com os termos do Patrocínio nos Contratos (ver 12)
 
 Protocolo 07 - Leis
-a) O aplicativo precisa cumprir a legislação local de cada país ou pacto, para o qual os voluntários precisarão redigir e aprovar as regras do aplicativo e confirmar seus processos.
-b) O aplicativo precisa definir um mapa de riscos e como o risco de não conformidade com as leis pode ser violado e fornecer estratégias de mitigação / eliminação.
+a) O Aplicativo precisa cumprir a legislação local de cada país ou pacto, para o qual os voluntários terão de redigir e aprovar as regras do aplicativo e confirmar seus processos.
+b) O aplicativo precisa definir um mapa de riscos e definir como o risco de não conformidade com as leis pode ser violado e fornecer estratégias de mitigação / eliminação.
 c) Sempre que possível, o aplicativo precisa ser gerenciado com uma estratégia de conformidade e garantia para evitar / mitigar quaisquer ações legais contra o aplicativo.
 d) O aplicativo deve estar em conformidade com o GDPR (para a UE) e todos os outros regulamentos de proteção de dados em todo o mundo.
-e) Onde as leis e regulamentos de DP não estiverem disponíveis, o mais forte deve ser aplicável.
+e) Onde as leis e regulamentos de PD não estiverem disponíveis, o mais forte deve ser aplicável.
 
 Protocolo 08 - Idiomas
 a) A interface do usuário do aplicativo precisa ser implementada em todos os idiomas de todos os países onde o aplicativo é aprovado e validado.
 b) O idioma é escolhido por dispositivo do usuário, o padrão é inglês.
 c) Documentação, tutoriais, perguntas frequentes, acordos e outros materiais estarão disponíveis na seguinte ordem: EN> ES> FR> PT> DE.
-d) As traduções precisam ser validadas por equipes / validadores.
+d) As traduções precisam ser validadas por equipas / validadores.
 e) O uso da linguagem deve ser inequívoco e claro o suficiente para que pessoas iletradas possam entender o conceito.
 
 Protocolo 09 - Ferramentas
-a) As ferramentas usadas para o fluxo de trabalho serão definidas pela Equipe Principal e consideradas como as ferramentas "oficiais" para decisão, desenvolvimento e uso.
-b) As ferramentas devem ser adquiridas gratuitamente para uso pelas equipes, ou o licenciamento circunstancial "especial" pode ser fornecido pelos Patrocinadores.
-c) Diferentes ferramentas podem ser necessárias para diferentes equipes / fluxo de trabalho.
+a) As ferramentas usadas para o fluxo de trabalho serão definidas pela Equipa Principal e consideradas como as ferramentas "oficiais" para decisão, desenvolvimento e uso.
+b) As ferramentas devem ser adquiridas gratuitamente para uso pelas equipas, ou o licenciamento circunstancial "especial" pode ser fornecido pelos Patrocinadores.
+c) Diferentes ferramentas podem ser necessárias para diferentes equipas / fluxo de trabalho.
 
 Protocolo 10 - Tecnologias
 a) As tecnologias a serem usadas devem ser de código aberto ou oferecidas pelos patrocinadores sob licença especial.
 b) As tecnologias devem fornecer suporte de longo prazo para o aplicativo, não menos de 5 anos.
 
-Protocolo 11 - Razões
-a) Os livros-razão devem ser mantidos usando, p. blockchain para ser verificável e integral.
-b) Os livros devem ser abertos e legíveis por qualquer pessoa.
-c) Os identificadores pessoais não devem estar disponíveis ao público, além dos validadores.
-d) Os livros contábeis devem sempre proteger os Dados Pessoais.
+Protocolo 11 - Registos
+a) Os Registos devem ser mantidos usando, p. ex. blockchain para ser verificável e integral.
+b) Os Registos devem ser abertos e legíveis por qualquer pessoa.
+c) Os dados pessoais não devem estar disponíveis ao público, apenas aos Validadores (Impostos).
+d) Os Registos devem sempre proteger os Dados Pessoais.
 
 Protocolo 12 - Acordos
-a) Os acordos devem ser negociados, acordados, iniciados e operados com patrocinadores e validadores, considerando as melhores práticas disponíveis, como SOX, PRINCE, ITIL, etc.
+a) Os acordos devem ser negociados, acordados, iniciados e operados com Patrocinadores e Validadores, considerando as melhores práticas disponíveis, como SOX, PRINCE, ITIL, etc.
 b) Os acordos são públicos e traduzidos para pelo menos 5 idiomas (ver 08.c).
-c) Os acordos são aprovados apenas pela equipe do Collegium (ver 13.a)
+c) Os acordos são aprovados apenas pela Equipa Colegial (ver 13.a)
 
-Protocolo 13 - Equipes
-a) Equipe principal responsável pelo aplicativo e protocolos é a equipe do Collegium.
-b) Cada protocolo deve ser governado por uma equipe de governança.
-c) Cada tarefa de fluxo de trabalho é entregue por uma equipe principal.
-d) Cada equipe principal pode ter quantos membros forem necessários, gerenciados por um proprietário da tarefa.
+Protocolo 13 - Equipas
+a) Equipa Principal responsável pelo aplicativo e protocolos é a Equipa Colegial.
+b) Cada Protocolo deve ser governado por uma Equipa de Governança.
+c) Cada tarefa de fluxo de trabalho é entregue por uma Equipa Principal.
+d) Cada Equipa Principal pode ter quantos membros forem necessários, gerenciados por um Proprietário da Tarefa.
 
 Protocolo 14 - Melhorias
-a) As melhorias nos protocolos e / ou na funcionalidade do aplicativo são regidas pelas equipes do Collegium e Governance, com a aprovação dos validadores / consumidores.
-b) As melhorias não podem, a qualquer momento ou por qualquer motivo, afastar o aplicativo do Protocolo 01 a, b.
+a) As melhorias nos protocolos e / ou na funcionalidade do aplicativo são regidas pelas Equipas Colegial e Governança, com a aprovação dos Validadores / Consumidores.
+b) As melhorias não podem, a qualquer momento ou por qualquer motivo, desviar o aplicativo do Protocolo 01 (a, b).
 
 Protocolo 15 - Lançamentos
-a) Primeira versão a ser testada quando todos os protocolos tiverem a versão inicial e o aplicativo estiver totalmente funcional no Core Minimum.
+a) A primeira versão a ser lançada quando todos os protocolos tiverem a versão inicial e o aplicativo estiver totalmente funcional no Core Minimum.
 b) As versões devem ser silenciosas para o usuário e fornecer clareza suficiente aos usuários.
 c) A distribuição é gratuita e deve ser sempre gratuita.
-d) o futuro após a Pandemia pode ser definido em um novo Protocolo - Futuro.
+d) O futuro após a Pandemia pode ser definido em um novo Protocolo - Futuro.
