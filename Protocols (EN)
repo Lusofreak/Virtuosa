@@ -8,7 +8,7 @@ f) Buckets are "assigned" per user physical location (detected and confirmed).
 g) Main Consumer Bucket will be the "not filled" closest to them, per ascending order of required money.
 h) Main Sponsor Bucket will be the "emptiest" local Bucket @Country level.
 PROTOCOL 02 - Buckets:
-a) Buckets are pools of money to aid Small Open door Businesses (PROTOCOL …).
+a) Buckets are pools of money to aid Small Open door Businesses (PROTOCOL 03).
 b) When a Bucket is full, it spills to the one adjacent (ordered by needs).
 c) Buckets are adjoined from smaller to largest (street *to define size*, neighborhood, town, municipality/county, Region/State, Country, Continent.
 e) Buckets are filled and emptied according to needs per time unit (week/month/quarter).
